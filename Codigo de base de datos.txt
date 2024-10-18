@@ -1,0 +1,43 @@
+--CREATE TABLE Empleados(
+--id_empleado INT PRIMARY KEY IDENTITY(1,1),
+--dni INT,
+--apellido VARCHAR(50),
+--nombre VARCHAR(50),
+--telefono VARCHAR(20),
+--fechaNac DATE,
+--usuario	VARCHAR(20),
+--clave VARCHAR(15),
+--rol VARCHAR(20)
+--);
+
+--CREATE TABLE Productos(
+--id_producto INT PRIMARY KEY IDENTITY(1,1),
+--nombreProducto VARCHAR(50),
+--nombreCorto VARCHAR(30),
+--precioCosto DECIMAL(20,2),
+--stock DECIMAL(18,2),
+--stockMinimo DECIMAL(18,2),
+--procentajeGanancia INT
+--);
+
+--CREATE TABLE ComprobantesEmitidos(
+--tipo VARCHAR(50),
+--numero VARCHAR(20),
+--fecha DATE,
+--empleado INT,
+--cliente INT,
+--monto DECIMAL(18,2),
+--FOREIGN KEY (empleado) REFERENCES Empleados(id_empleado),
+--FOREIGN KEY (cliente) REFERENCES Clientes(id_cliente)
+--);
+
+--DROP TABLE ComprobantesEmitidos
+--DROP TABLE Empleados
+
+INSERT INTO Empleados (usuario,clave) VALUES ('admin','123')
+
+SELECT * FROM Empleados
+SELECT * FROM Clientes
+SELECT * FROM ComprobantesEmitidos
+SELECT * FROM Productos
+
