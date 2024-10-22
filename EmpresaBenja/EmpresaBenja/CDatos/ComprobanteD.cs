@@ -1,7 +1,6 @@
 ﻿using EmpresaBenja.Clogica;
 using System;
 using System.Collections.Generic;
-using System.ComponentModel;
 using System.Data.SqlClient;
 using System.Linq;
 using System.Text;
@@ -12,7 +11,7 @@ namespace EmpresaBenja.CDatos
 {
     internal class ComprobanteD
     {
-        SqlConnection conexion = new SqlConnection("server=.; database= EMPRESA_BENJA; integrated security= true");
+        SqlConnection conexion = new SqlConnection("server= DESKTOP-6RV4JMD\\SQLEXPRESS; database= PROYECTO ; integrated security= true");
         SqlCommand comando;
         SqlDataReader leer;
 
@@ -75,3 +74,15 @@ namespace EmpresaBenja.CDatos
         }
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+

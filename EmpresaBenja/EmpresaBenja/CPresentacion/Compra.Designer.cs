@@ -117,7 +117,7 @@
             this.lblFecha.Name = "lblFecha";
             this.lblFecha.Size = new System.Drawing.Size(65, 26);
             this.lblFecha.TabIndex = 44;
-            this.lblFecha.Text = "fehca";
+            this.lblFecha.Text = "fecha";
             // 
             // label5
             // 

@@ -75,14 +75,14 @@ namespace EmpresaBenja.CPresentacion
 
             empleadoL.id = Convert.ToInt32(filaSeleccionada.Cells["id_empleado"].Value.ToString());
 
-            //string fecha = Calendario.Value.ToString("dd/MM/yyyy");
-            //empleadoL.dni = txtDni.Text;
-            //empleadoL.apellido = txtApellido.Text;
-            //empleadoL.nombre = txtNombre.Text;
-            //empleadoL.telefono = txtTelefono.Text;
-            //empleadoL.fechaNac = DateTime.Parse(fecha);
-            //empleadoL.usuario = txtUsuario.Text;
-            //empleadoL.clave = txtClave.Text;
+           string fecha = Calendario.Value.ToString("dd/MM/yyyy");
+           empleadoL.dni = txtDni.Text;
+           empleadoL.apellido = txtApellido.Text;
+           empleadoL.nombre = txtNombre.Text;
+           empleadoL.telefono = txtTelefono.Text;
+           empleadoL.fechaNac = DateTime.Parse(fecha);
+           empleadoL.usuario = txtUsuario.Text;
+           empleadoL.clave = txtClave.Text;
 
             //empleadoL.modificarEmpleadoD(empleadoL);
             //RecargarGrid();

@@ -11,7 +11,7 @@ namespace EmpresaBenja.CDatos
 {
     internal class CompraD
     {
-        SqlConnection conexion = new SqlConnection("server=.;database=EMPRESA_BENJA;integrated security= true");
+        SqlConnection conexion = new SqlConnection("server= DESKTOP-6RV4JMD\\SQLEXPRESS;database= PROYECTO;integrated security= true");
         SqlCommand comando;
         SqlDataReader leer;
 

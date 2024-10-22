@@ -52,11 +52,17 @@
     <Compile Include="CDatos\ComprobanteD.cs" />
     <Compile Include="CDatos\EmpleadosD.cs" />
     <Compile Include="CDatos\LoginD.cs" />
+    <Compile Include="CDatos\MovimientosD.cs" />
+    <Compile Include="CDatos\ProductosD.cs" />
+    <Compile Include="CDatos\VentasD.cs" />
     <Compile Include="Clogica\ClientesL.cs" />
     <Compile Include="Clogica\CompraL.cs" />
     <Compile Include="Clogica\ComprobanteL.cs" />
     <Compile Include="Clogica\EmpleadosL.cs" />
     <Compile Include="Clogica\LoginL.cs" />
+    <Compile Include="Clogica\MovimientosL.cs" />
+    <Compile Include="Clogica\ProductosL.cs" />
+    <Compile Include="Clogica\VentasL.cs" />
     <Compile Include="CPresentacion\ActuEmpleados.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -151,6 +157,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="CPresentacion\SeleccionarCliente.resx">
       <DependentUpon>SeleccionarCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CPresentacion\SeleccionarProducto.resx">
+      <DependentUpon>SeleccionarProducto.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="CPresentacion\Venta.resx">
       <DependentUpon>Venta.cs</DependentUpon>

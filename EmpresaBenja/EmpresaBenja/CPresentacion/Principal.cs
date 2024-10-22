@@ -19,8 +19,8 @@ namespace EmpresaBenja.CPresentacion
         Inicio subInicio = new Inicio();
         ActuEmpleados subActuEmpleados = new ActuEmpleados();
         Clientes subClientes = new Clientes();
-        Venta subVenta = new Venta();
-        MoviYCrud subMovieCrud = new MoviYCrud();
+        ventaProductos subVenta = new ventaProductos();
+        dgvMovi subMovieCrud = new dgvMovi();
 
         public string usuarioActivo { get; set; }
         public Principal(string usActivo)

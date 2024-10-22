@@ -1,4 +1,6 @@
-﻿using System;
+﻿using EmpresaBenja.CDatos;
+using EmpresaBenja.Clogica;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -10,11 +12,36 @@ using System.Windows.Forms;
 
 namespace EmpresaBenja.CPresentacion
 {
-    public partial class Venta : Form
+    public partial class ventaProductos : Form
     {
-        public Venta()
+
+        public ventaProductos()
         {
             InitializeComponent();
         }
-    }
-}
+
+        private void Venta_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lblFecha_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnAgregar_Click(object sender, EventArgs e)
+        {
+ 
+        }
+
+        private void ActualizarTotal()
+        {
+
+        }
+
+        private void btnRegistrar_Click(object sender, EventArgs e)
+        {
+        }
+    } 
+}        

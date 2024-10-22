@@ -34,3 +34,23 @@ C:\Users\diazl\Escritorio\Carpeta\Clases\Benjamin\EmpresaBenja\EmpresaBenja\obj\
 C:\Users\diazl\Escritorio\Carpeta\Clases\Benjamin\EmpresaBenja\EmpresaBenja\obj\Debug\EmpresaBenja.pdb
 C:\Users\diazl\Escritorio\Carpeta\Clases\Benjamin\EmpresaBenja\EmpresaBenja\obj\Debug\EmpresaBenja.CPresentacion.Clientes.resources
 C:\Users\diazl\Escritorio\Carpeta\Clases\Benjamin\EmpresaBenja\EmpresaBenja\obj\Debug\EmpresaBenja.CPresentacion.SeleccionarCliente.resources
+C:\Users\Luis Cansino\Desktop\EmpresaBenja\EmpresaBenja\bin\Debug\EmpresaBenja.exe.config
+C:\Users\Luis Cansino\Desktop\EmpresaBenja\EmpresaBenja\bin\Debug\EmpresaBenja.exe
+C:\Users\Luis Cansino\Desktop\EmpresaBenja\EmpresaBenja\bin\Debug\EmpresaBenja.pdb
+C:\Users\Luis Cansino\Desktop\EmpresaBenja\EmpresaBenja\obj\Debug\EmpresaBenja.csproj.AssemblyReference.cache
+C:\Users\Luis Cansino\Desktop\EmpresaBenja\EmpresaBenja\obj\Debug\EmpresaBenja.CPresentacion.ActuEmpleados.resources
+C:\Users\Luis Cansino\Desktop\EmpresaBenja\EmpresaBenja\obj\Debug\EmpresaBenja.CPresentacion.Clientes.resources
+C:\Users\Luis Cansino\Desktop\EmpresaBenja\EmpresaBenja\obj\Debug\EmpresaBenja.CPresentacion.Compra.resources
+C:\Users\Luis Cansino\Desktop\EmpresaBenja\EmpresaBenja\obj\Debug\EmpresaBenja.CPresentacion.Inicio.resources
+C:\Users\Luis Cansino\Desktop\EmpresaBenja\EmpresaBenja\obj\Debug\EmpresaBenja.CPresentacion.Login.resources
+C:\Users\Luis Cansino\Desktop\EmpresaBenja\EmpresaBenja\obj\Debug\EmpresaBenja.CPresentacion.dgvMovi.resources
+C:\Users\Luis Cansino\Desktop\EmpresaBenja\EmpresaBenja\obj\Debug\EmpresaBenja.CPresentacion.Principal.resources
+C:\Users\Luis Cansino\Desktop\EmpresaBenja\EmpresaBenja\obj\Debug\EmpresaBenja.CPresentacion.Registrarse.resources
+C:\Users\Luis Cansino\Desktop\EmpresaBenja\EmpresaBenja\obj\Debug\EmpresaBenja.CPresentacion.SeleccionarCliente.resources
+C:\Users\Luis Cansino\Desktop\EmpresaBenja\EmpresaBenja\obj\Debug\EmpresaBenja.CPresentacion.SeleccionarProducto.resources
+C:\Users\Luis Cansino\Desktop\EmpresaBenja\EmpresaBenja\obj\Debug\EmpresaBenja.CPresentacion.ventaProductos.resources
+C:\Users\Luis Cansino\Desktop\EmpresaBenja\EmpresaBenja\obj\Debug\EmpresaBenja.Properties.Resources.resources
+C:\Users\Luis Cansino\Desktop\EmpresaBenja\EmpresaBenja\obj\Debug\EmpresaBenja.csproj.GenerateResource.cache
+C:\Users\Luis Cansino\Desktop\EmpresaBenja\EmpresaBenja\obj\Debug\EmpresaBenja.csproj.CoreCompileInputs.cache
+C:\Users\Luis Cansino\Desktop\EmpresaBenja\EmpresaBenja\obj\Debug\EmpresaBenja.exe
+C:\Users\Luis Cansino\Desktop\EmpresaBenja\EmpresaBenja\obj\Debug\EmpresaBenja.pdb

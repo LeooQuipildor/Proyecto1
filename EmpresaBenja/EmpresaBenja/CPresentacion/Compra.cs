@@ -31,8 +31,8 @@ namespace EmpresaBenja.CPresentacion
 
         private void Compra_Load(object sender, EventArgs e)
         {
-            DateTime fehcaHoy = DateTime.Now;
-            lblFecha.Text = fehcaHoy.ToString("dd/MM/yyyy");
+            DateTime fechaHoy = DateTime.Now;
+            lblFecha.Text = fechaHoy.ToString("dd/MM/yyyy");
 
             //// Si quieres añadir columnas manualmente
             dgvProductos.Columns.Add("columnaNombreproducto", "Nombre producto");
